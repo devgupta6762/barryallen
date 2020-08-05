@@ -6,4 +6,4 @@ def greet_user():
 
 print('Start')
 greet_user()
-print('finish')
+print('finis')
